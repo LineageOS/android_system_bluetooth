@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAH3//+RE\u003d",
+        "filename": "bluedroid/bluetooth.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 431
+      },
+      "writtenOn": "2011-09-05T21:00:37Z",
+      "side": 1,
+      "message": "This should be moved to /data. Some (most?) devices don\u0027t have a /tmp directory.",
+      "revId": "79fe509ad32fcfaf8a7e5fe2f9a61c2b9b4aa2cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
