@@ -16,6 +16,24 @@
       "revId": "79fe509ad32fcfaf8a7e5fe2f9a61c2b9b4aa2cc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAH3//+O4\u003d",
+        "filename": "bluedroid/bluetooth.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-09-06T16:53:24Z",
+      "side": 1,
+      "message": "The problem is that /data is persistent. When rebooting the device, you want to start at refcount 0 and not at the refcount which was in effect at reboot time.",
+      "parentUuid": "AAAAH3//+RE\u003d",
+      "revId": "79fe509ad32fcfaf8a7e5fe2f9a61c2b9b4aa2cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
