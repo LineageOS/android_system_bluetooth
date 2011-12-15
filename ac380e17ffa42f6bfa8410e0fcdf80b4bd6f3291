@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAOH///2M\u003d",
+        "filename": "brcm_patchram_plus/Android.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-15T23:33:21Z",
+      "side": 1,
+      "message": "I think this should follow the naming conventions used elsewhere (UsbController.cpp, bluetooth.c):\nBOARD_CUSTOM_BRCM_PATCHRAM_PLUS",
+      "revId": "ac380e17ffa42f6bfa8410e0fcdf80b4bd6f3291",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
