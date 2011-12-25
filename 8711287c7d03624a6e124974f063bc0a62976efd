@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAOn////Q\u003d",
+        "filename": "bluedroid/Android.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 167
+      },
+      "writtenOn": "2011-12-25T12:18:25Z",
+      "side": 1,
+      "message": "This doesnt work. Every target without the define would fall under this case.",
+      "revId": "8711287c7d03624a6e124974f063bc0a62976efd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
