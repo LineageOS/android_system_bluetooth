@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAOn////o\u003d",
+        "filename": "bluedroid/Android.mk",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 167
+      },
+      "writtenOn": "2011-12-25T10:39:28Z",
+      "side": 1,
+      "message": "ifneq ($(BOARD_CUSTOM_BLUEDROID),)",
+      "revId": "2b7d1469c214ff7ea92632e4aef038c58086f32d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
